@@ -8,7 +8,7 @@ Omega = 1200;
 % Number of blades
 B = 6; 
 % Radius of propeller
-R = 0.2;
+R = 0.075;
 % density of air
 rho = 1.225;
 % kinematic coefficient of viscosity
